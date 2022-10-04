@@ -1,0 +1,10 @@
+- CNN
+- run on images of spec first then add in images from cubex (halves, mean, median)
+- create image with colour gradient showing error. See Ignasi's work and look into Squeeze
+
+
+
+- trim spectrum to region of interest based on expected redshift?
+
+
+use time series on spectra then CNN on images?
