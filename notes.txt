@@ -8,3 +8,6 @@
 
 
 use time series on spectra then CNN on images?
+
+
+Or GCN - Graph convolutional network
